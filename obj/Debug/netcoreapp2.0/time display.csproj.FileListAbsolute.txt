@@ -1,0 +1,10 @@
+C:\Users\Pete\Desktop\DojoAssignments\netCore\asp.net_core_1\time display\bin\Debug\netcoreapp2.0\time display.deps.json
+C:\Users\Pete\Desktop\DojoAssignments\netCore\asp.net_core_1\time display\bin\Debug\netcoreapp2.0\time display.runtimeconfig.json
+C:\Users\Pete\Desktop\DojoAssignments\netCore\asp.net_core_1\time display\bin\Debug\netcoreapp2.0\time display.runtimeconfig.dev.json
+C:\Users\Pete\Desktop\DojoAssignments\netCore\asp.net_core_1\time display\bin\Debug\netcoreapp2.0\time display.dll
+C:\Users\Pete\Desktop\DojoAssignments\netCore\asp.net_core_1\time display\bin\Debug\netcoreapp2.0\time display.pdb
+C:\Users\Pete\Desktop\DojoAssignments\netCore\asp.net_core_1\time display\obj\Debug\netcoreapp2.0\time display.csproj.CoreCompileInputs.cache
+C:\Users\Pete\Desktop\DojoAssignments\netCore\asp.net_core_1\time display\obj\Debug\netcoreapp2.0\time display.AssemblyInfoInputs.cache
+C:\Users\Pete\Desktop\DojoAssignments\netCore\asp.net_core_1\time display\obj\Debug\netcoreapp2.0\time display.AssemblyInfo.cs
+C:\Users\Pete\Desktop\DojoAssignments\netCore\asp.net_core_1\time display\obj\Debug\netcoreapp2.0\time display.dll
+C:\Users\Pete\Desktop\DojoAssignments\netCore\asp.net_core_1\time display\obj\Debug\netcoreapp2.0\time display.pdb
